@@ -1,0 +1,19 @@
+.bus-card {
+  border: 2px solid #007bff;
+  padding: 15px;
+  border-radius: 10px;
+  width: 220px;
+  margin: 10px auto;
+  text-align: left;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.bus-card h2 {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+.bus-card p {
+  margin: 5px 0;
+  font-size: 1rem;
+}

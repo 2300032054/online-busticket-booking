@@ -1,0 +1,20 @@
+.navbar {
+  background-color: #333;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar .brand a {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.navbar .links a {
+  color: white;
+  margin-left: 15px;
+  text-decoration: none;
+}
